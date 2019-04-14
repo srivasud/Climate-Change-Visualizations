@@ -16,9 +16,27 @@ The visuals will be evaluated based on the following principles.
    * Completeness 
    * Inspire action
 
-## The Five Visuals on Climate change caused by Humans:
+## The Five Visuals on climate change caused by Humans:
+
+Figure-1:
+
 ![paleo-datastudy.png](images/paleo-datastudy.png)  
+
+Figure-2:
+
 ![HumansNature.png](images/HumansNature.png)
+
+Figure-3:
+
+![life-expectancy.JPG](images/life-expectancy.JPG)
+
+Figure-4:
+
+![effects-image.jpg](images/effects-image.jpg)
+
+Figure-5:
+
+![persuade.jpg](images/persuade.jpg)
 
 ## Evaluation:
 
