@@ -16,20 +16,41 @@ The visuals will be evaluated based on the following principles.
    * Completeness 
    * Inspire action
 
-## The Five Visuals on climate change caused by Humans:
+	
+	Earth has surpassed 4.5 billion years of life span with human interventions possibly starting back since the last 200,000 years. We are currently facing extreme weather events which has raised so many questions on human activities. Indeed it is true that humans have increased the hydro carbon energy consumption multifold in the last 7 or 8 decades.
+	
+## Five Visuals on climate change caused by Humans
 
 Figure-1:
 
 ![paleo-datastudy.png](images/paleo-datastudy.png)  
 
+	Scientists have studied the evidence from tree rings, air trapped in ice glaciers, ocean sediments, coral reefs and also some sedimentary rocks to collect the history of earth warming trends. Scientists could trace the history and recreate the global warming trend since the last 800,000 years. Using this evidence, they have recreated a record of earth's past climates which is called "paleoclimates". The above figure shows rate of temperature change over time using Paleoclimate model. It is very intuitive that the current trend of temperature increase over the last 70 is very high compared to the past.
+
+	Evidential Data from the history shows a 5 degree Celsius change took about 5000 to 7000 years. From the above graph, you see that in the last century alone the temperature increase is 0.7 degree celsius which is 10 times faster than the average. Models predict that the earth will be warmer by 2 to 6 degree Celsius in the next 100 years which is 20 times faster than the average. This rate is very alarming as it will get out of control pretty quickly.
+
 Figure-2:
 
 ![HumansNature.png](images/HumansNature.png)
+
+	The above graph intuitively shows humans are major contributors to global warming.
+	Human activities included 
+		* Green house gas emission
+		* Anthropogenic tropospheric aerosol
+		* Land use
+		* Ozone changes
+        Natural activities included 
+		* solar flares and solar storms
+		* volcanic eruptions in earth and ocean
+		* Orbital changes
+
+      	Data collected also showed the biggest contributor is GHG (green house gas emissions) and it is significantly larger in the last 60 to 70 years.
 
 Figure-3:
 
 ![reverse.jpg](images/reverse.jpg)
 
+	
 Figure-4:
 
 ![persuade.jpg](images/persuade.jpg)
@@ -41,22 +62,7 @@ Figure-5:
 ## Evaluation:
 
 ### Evidence
-	Earth has surpassed 4.5 billion years of life span with human interventions starting back since the last 200,000 years. Scientists have studied the evidence from tree rings, air trapped in ice glaciers, ocean sediments, coral reefs and also some sedimentary rocks to collect the history of earth warming trends. Scientists could trace the history and recreate the global warming trend since the last 800,000 years.
-
-	Using this evidence, they have recreated a record of earth's past climates which is called "paleoclimates". Figure-1 above shows rate of temperature change over time using Paleoclimate model. Analyzing the paleoclimate reveals evidence that the rate of climatic warming is alarmingly faster now than ever before even though the current temperature has not surpassed previous peak temperatures. Evidential Data from the history shows a 5 degree Celsius change took about 5000 to 7000 years. From the above graph, you see that in the last century alone the temperature increase is 0.7 degree celsius which is 10 times faster than the average. Models predict that the earth will be warmer by 2 to 6 degree Celsius in the next 100 years which is 20 times faster than the average. This rate is very alarming as it will get out of control pretty quickly.
-
-###Intuitive
-	Figure-2 shows a graph of average global temperature change over time caused by humans and nature. It is almost unequivocally undeniable that humans are significant contributors to global warming. The graph below shows average global temperature changes caused by human activities and natural activities. 
-	Human activities included 
-		* Green house gas emission
-		* Anthropogenic tropospheric aerosol
-		* Land use
-		* Ozone changes
-        Natural activities included 
-		* solar flares and solar storms
-		* volcanic eruptions in earth and ocean
-		* Orbital changes
-      	Data collected shows the biggest contributor is GHG (green house gas emissions) and it is significantly larger in the last 60 to 70 years.
+	
 
 ###Perspective
 	
