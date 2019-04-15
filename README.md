@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Earth has surpassed 4.5 billion years of life span with human interventions possibly starting back since the last 200,000 years. We are currently facing extreme weather events which has raised so many questions on human activities. Indeed it is true that humans have increased the hydro carbon energy consumption multifold in the last 5 decades. Today's extreme weather conditions such as forest fires, shrinkage in ice mass, rise in sea level, severe flooding due to extreme rain or snow or cyclonic depressions, severe drought for extended period of time etc. Often we here global warming is the cause. Here we will analyze, evaluate 5 visuals, infer and summarize at the end.We will evaluate the 5 visuals on the following principles.
+Earth has surpassed 4.5 billion years of life span with human interventions possibly starting back since the last 200,000 years. We are currently facing extreme weather events which has raised so many questions on human activities. Indeed it is true that humans have increased the hydro carbon energy consumption multifold in the last 5 decades. Today's extreme weather conditions such as forest fires, shrinkage in ice mass, rise in sea level, severe flooding due to extreme rain or snow or cyclonic depressions, severe drought for extended period of time etc. Often we here global warming is the cause. Here we will analyze, evaluate 5 visuals, infer and summarize, replicate stripe visual for Warming stripes at the end.We will evaluate the 5 visuals on the following principles.
 
    * Evidence
    * Intuitiveness
@@ -11,19 +11,19 @@ Earth has surpassed 4.5 billion years of life span with human interventions poss
    * Completeness 
    * Inspire action
 
-[Source [Five Principles](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)]
+[Source: [Principles](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)]
 
  "Climate Change" and "Global Warming" are almost used synonymously everywhere. Global warming refers to global temperature changes due to increasing concentrations of greenhouse gases in atmosphere. Climate change refers to changes in measures of climate over a period of time such as rainfall, snow, temperature, wind patterns, intensity of extreme weather events (such as hurricanes, volcanic eruptions etc).
 NASA cites global warming as a significant contributor to modern climate changes[[Nasa Evidence](https://climate.nasa.gov/evidence)]. Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
 
-[Source [Definitions](https://www.usgs.gov/faqs/what-difference-between-global-warming-and-climate-change-1?qt-news_science_products=0#qt-news_science_products)]
+[Source: [Definitions](https://www.usgs.gov/faqs/what-difference-between-global-warming-and-climate-change-1?qt-news_science_products=0#qt-news_science_products)]
 
 ### Evaluation
 						Figure-1
 
 ![paleo-datastudy.png](images/paleo-datastudy.png)
 
-[Source [Paleoclimate](https://earthobservatory.nasa.gov/features/GlobalWarming/page3.php)] 
+[Source Graph: [Paleoclimate](https://earthobservatory.nasa.gov/features/GlobalWarming/page3.php)] 
 
 First the evidence, Scientists have studied the evidence from tree rings, air trapped in ice glaciers, ocean sediments, coral reefs and also some sedimentary rocks to collect the history of earth warming trends. Scientists could trace the history and recreate the global warming trend since the last 800,000 years. Using this evidence, they have recreated a record of earth's past climates which is called "paleoclimates". The above figure shows rate of temperature change over time using Paleoclimate model. It is very intuitive that the current trend of temperature increase over the last couple of decades is very high compared to the past.
 
@@ -35,7 +35,7 @@ This graph gives a great perspective that indeed global warming is happening now
 
 ![HumansNature.png](images/HumansNature.png)
 
-[Source [Data](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/forcings.csv)]
+[Source: Graph based on [Data](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/forcings.csv)]
 The data sourced the activities as follows.
 Human activities include
 	* Green house gas (GHG) emission 
@@ -54,7 +54,7 @@ The above graph is drawn by me using the data cited above. It intuitively shows 
 
 ![reverse.jpg](images/reverse.jpg)
 
-[Source [Skeptical Perspective](https://cei.org/blog/climate-change-fossil-fuels-and-human-well-being?gclid=EAIaIQobChMIstiUqonO4QIVTrXACh2hQgdjEAMYASAAEgIYHvD_BwE)]
+[Source Image: [Skeptical Perspective](https://cei.org/blog/climate-change-fossil-fuels-and-human-well-being?gclid=EAIaIQobChMIstiUqonO4QIVTrXACh2hQgdjEAMYASAAEgIYHvD_BwE)]
 
 Well, hearing from the skeptics isle that not all effect is caused by humans and GHG effect is very minimal to increase temperature by 0.7 degree Celsius. Global warming and cooling is a phenomenon that existed before and is repeating now. The graph argues that Ice mass shrink (which is reported by Global warming Scientists as an effect of global warming) started a century before humans started consuming hydro carbon energy at a mass scale as energy source. Even though humans have achieved great technological milestones in every field there are few developing countries which is not fully electrified. Other sources cite that every country in the past 50 decades is showing greater GDP growth, lower mortality rate, lower fatalities rates in warm climate epidemic diseases such as malaria, measles, chicken pox etc.
 
@@ -64,7 +64,7 @@ This is just one side of the argument. I find the skeptics do not realize the fu
 
 ![persuade.jpg](images/persuade.jpg)
 
-[Source [Model](https://visme.co/blog/climate-change-facts/)]
+[Source Image: [Model](https://visme.co/blog/climate-change-facts/)]
 
 The above picture (Figure-4) is very intuitive, engaging and persuading. If humans continue to consume conventional fuel sources and continue to emit carbon emissions at the current level we will hit 2 degree Celsius temperature increase by 2020. The extreme weather patterns will become worse and significant life and economic destruction will be imminent. This graph also models the impact of trends when there is 1.5 degree Celsius temperature increase by 2020. This is an eye opener for people and will help them to remember as a key take away!
 
@@ -72,7 +72,7 @@ The above picture (Figure-4) is very intuitive, engaging and persuading. If huma
 
 ![persuade1.jpg](images/persuade1.jpg)
 
-[Source [Inspire Model](https://www.wbcsd.org/Programs/Climate-and-Energy/Energy/New-Energy-Solutions/Resources/New-Energy-Solutions-for-1.5-C-Visual)]
+[Source Image: [Inspire Model](https://www.wbcsd.org/Programs/Climate-and-Energy/Energy/New-Energy-Solutions/Resources/New-Energy-Solutions-for-1.5-C-Visual)]
 
 The above graph (Figure-5) shows inspiring action plan to achieve 1.5 degree Celsius temperature increase target. This graph clearly shows the major contributor (41%) from conventional power production (solid fuel, natural gas and liquid fuels) and the second highest (24%) from conventional automobiles (cars, planes, ships and motors) . It shows a path for creating more natural renewable energy production (such as solar, wind), increasing production of electric cars, renovate the building heating or cooling infrastructures. It also shows the importance of involvement and commitment from various entities such as energy producers, society, individual users, governments, banks and financial institutions to be successful in this effort. Without commitment from any of these parties, we will not be able to mitigate the effect of global warming.
 
@@ -91,3 +91,7 @@ Without combined efforts from every country the effort will not be complete and 
 ## Reference
 
 Nasa Evidence - https://climate.nasa.gov/evidence
+
+## Warming stripe replication
+
+[[Source: Data]()]
