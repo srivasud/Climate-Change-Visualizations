@@ -36,12 +36,14 @@ This graph gives a great perspective that indeed global warming is happening now
 ![HumansNature.png](images/HumansNature.png)
 
 [Source: Graph based on [Data](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/forcings.csv)]
-The data sourced the activities as follows.
+The data sourced the activities as follows.  
+
 Human activities include
 * Green house gas (GHG) emission .
 * Anthropogenic tropospheric aerosol.
 * Land use.
-* Ozone changes.
+* Ozone changes.  
+
 Natural activities include
 * solar flares and solar storms.
 * volcanic eruptions in earth and ocean.
