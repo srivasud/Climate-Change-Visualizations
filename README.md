@@ -12,7 +12,7 @@ Earth has surpassed 4.5 billion years of life span with human interventions poss
    * Inspire action
 
  "Climate Change" and "Global Warming" are almost used synonymously everywhere. Global warming refers to global temperature changes due to increasing concentrations of greenhouse gases in atmosphere. Climate change refers to changes in measures of climate over a period of time such as rainfall, snow, temperature, wind patterns, intensity of extreme weather events (such as hurricanes, volcanic eruptions etc).
-NASA cites global warming as a significant contributor to modern climate changes [Nasa Evidence](https://climate.nasa.gov/evidence). Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
+NASA cites global warming as a significant contributor to modern climate changes [1]. Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
 
 ### Evaluation
 						Figure-1
@@ -76,8 +76,9 @@ The above graph (Figure-5) shows inspiring action plan to achieve 1.5 degree Cel
 * Humans need to act with responsibility. Every country needs to commit itself to use renewable source of energy. Every country needs to be sympathetic to other countries and provide technological help to produce energy using renewable sources.
 Without combined efforts from every country the effort will not be complete and the mitigation target cannot be easily achieved.
 
+## Reference
 
-https://climate.nasa.gov/evidence
+[1] - https://climate.nasa.gov/evidence
 What is climate change and global warming ? 
 https://www.usgs.gov/faqs/what-difference-between-global-warming-and-climate-change-1?qt-news_science_products=0#qt-news_science_products
 https://earthobservatory.nasa.gov/features/GlobalWarming/page3.php
