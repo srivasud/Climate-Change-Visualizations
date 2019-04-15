@@ -32,11 +32,11 @@ Figure-3:
 
 Figure-4:
 
-![effects-image.jpg](images/effects-image.jpg)
+![persuade.jpg](images/persuade.jpg)
 
 Figure-5:
 
-![persuade.jpg](images/persuade.jpg)
+![persuade1.jpg](images/persuade1.jpg)
 
 ## Evaluation:
 
