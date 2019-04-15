@@ -92,6 +92,6 @@ Without combined efforts from every country the effort will not be complete and 
 
 Nasa Evidence - https://climate.nasa.gov/evidence
 
-## Warming stripe replication
+## Warming Stripe Replication
 
 [[Source: Data]()]
