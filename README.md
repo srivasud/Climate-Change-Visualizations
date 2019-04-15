@@ -95,5 +95,6 @@ Nasa Evidence - https://climate.nasa.gov/evidence
 ## Warming Stripe Replication
 
 [[Source: Data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.monthly_ns_avg.txt)]
+Tableau Code - [HadCRUT.4.6.0.0.monthly_ns_avg.twb](HadCRUT.4.6.0.0.monthly_ns_avg.twb)
 
-![Warming_Stripe.png](images/Warming_Stripe.png)
+Warming Stripe Image - ![Warming_Stripe.png](images/Warming_Stripe.png)
