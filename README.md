@@ -1,8 +1,3 @@
----
-bibliography: ["myBib.bib"]
-biblio-style: "apalike"
-link-citations: true
----
 # Data Visualizations On Climate Change Caused By Humans
 
 ## Introduction
@@ -17,7 +12,7 @@ Earth has surpassed 4.5 billion years of life span with human interventions poss
    * Inspire action
 
  "Climate Change" and "Global Warming" are almost used synonymously everywhere. Global warming refers to global temperature changes due to increasing concentrations of greenhouse gases in atmosphere. Climate change refers to changes in measures of climate over a period of time such as rainfall, snow, temperature, wind patterns, intensity of extreme weather events (such as hurricanes, volcanic eruptions etc).
-NASA cites global warming as a significant contributor to modern climate changes [@nasa_evidence]. Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
+NASA cites global warming as a significant contributor to modern climate changes [Nasa Evidence](https://climate.nasa.gov/evidence). Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
 
 ### Evaluation
 						Figure-1
