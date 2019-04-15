@@ -14,7 +14,7 @@ Earth has surpassed 4.5 billion years of life span with human interventions poss
 [Source: [Principles](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)]
 
  "Climate Change" and "Global Warming" are almost used synonymously everywhere. Global warming refers to global temperature changes due to increasing concentrations of greenhouse gases in atmosphere. Climate change refers to changes in measures of climate over a period of time such as rainfall, snow, temperature, wind patterns, intensity of extreme weather events (such as hurricanes, volcanic eruptions etc).
-NASA cites global warming as a significant contributor to modern climate changes[[Nasa Evidence](https://climate.nasa.gov/evidence)]. Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions emissions from human activities are the root cause of this alarming change.
+NASA cites global warming as a significant contributor to modern climate changes[[Nasa Evidence](https://climate.nasa.gov/evidence)]. Humans have significant foot print in global warming changes and hence the climate change. Scientists from both the isles differ on agreeing that human carbon dioxide emissions from human activities are the root cause of this alarming change.
 
 [Source: [Definitions](https://www.usgs.gov/faqs/what-difference-between-global-warming-and-climate-change-1?qt-news_science_products=0#qt-news_science_products)]
 
