@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Earth has surpassed 4.5 billion years of life span with human interventions possibly starting back since the last 200,000 years. We are currently facing extreme weather events which has raised so many questions on human activities. Indeed it is true that humans have increased the hydro carbon energy consumption multifold in the last 5 decades. Today's extreme weather conditions such as forest fires, shrinkage in ice mass, rise in sea level, severe flooding due to extreme rain or snow or cyclonic depressions, severe drought for extended period of time etc. Often we here global warming is the cause. Here we will analyze, evaluate 5 visuals, infer and summarize, replicate stripe visual for Warming stripes at the end.We will evaluate the 5 visuals on the following principles.
+Earth has surpassed 4.5 billion years of life span with human interventions possibly dating back since the last 200,000 years. We are currently facing extreme weather events which has raised so many questions on human activities. Indeed it is true that humans have increased the hydro carbon energy consumption multifold in the last 5 decades. Today's extreme weather conditions such as forest fires, shrinkage in ice mass, rise in sea level, severe flooding due to extreme rain or snow or cyclonic depressions, severe drought for extended period of time etc, are often attributed to global warming. Here we will analyze, evaluate 5 visuals, infer and summarize, replicate stripe visual for Warming stripes at the end.We will evaluate the 5 visuals on the following principles.
 
    * Evidence
    * Intuitiveness
