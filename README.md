@@ -96,4 +96,4 @@ Nasa Evidence - https://climate.nasa.gov/evidence
 
 [[Source: Data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.monthly_ns_avg.txt)]
 
-![Warming_Stripe](images/Warming_Stripe)
+![Warming_Stripe.png](images/Warming_Stripe.png)
